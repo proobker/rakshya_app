@@ -69,10 +69,6 @@ interface SOSState {
   setCurrentAlert: (alert: SOSAlert | null) => void;
   setEvidenceSession: (session: EvidenceSession | null) => void;
   setVoiceListening: (listening: boolean) => void;
-  /**
-   * ATOMIC FIX: Trigger SOS and set alert data simultaneously.
-   * Prevents the evidence service from trying to record with a null ID.
-   */
   triggerSOS: (alert: SOSAlert) => void;
   reset: () => void;
 }

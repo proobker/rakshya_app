@@ -98,17 +98,14 @@ export const ENCRYPTION_CONFIG = {
   SECURE_STORE_PUBLIC_KEY: 'rakshya_public_key',
 } as const;
 
-// --- Firebase Config (placeholder — replace with real values) ---
 export const FIREBASE_CONFIG = {
-  apiKey: 'AIzaSyAcJHw7eyC7XSHBjB0vGkQTXcJECY7qJME',
-  authDomain: 'rakshya-c5a24.firebaseapp.com',
-  projectId: 'rakshya-c5a24',
-  storageBucket: 'rakshya-c5a24.firebasestorage.app',
-  messagingSenderId: '332793532725',
-  appId: '1:332793532725:android:c3f7826c78b2cb60bf7c7c',
+  apiKey: 'AAAABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMNNOOPPPQQQRRR', // Replace with actual API key
+  authDomain: 'app-rakshya.firebaseapp.com', // Replace with actual auth domain
+  projectId: 'rakshya-asdf123', // Replace with actual project ID
+  storageBucket: 'rakshya-sadsdf123.appspot.com', // Replace with actual storage bucket
+  messagingSenderId: '#######', // Replace with actual sender ID
+  appId: '1:3232c.adsf123:web:asdf1234', // Replace with actual app ID
 } as const;
-
-// Google Places API key removed — using OpenStreetMap Overpass API instead (no key needed)
 
 // --- Background Task Names ---
 export const TASK_NAMES = {
