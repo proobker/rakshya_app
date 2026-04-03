@@ -200,7 +200,7 @@ Rakshya is **not** a substitute for **emergency services** (police / ambulance).
 
 ## License
 
-See [LICENSE](LICENSE) in this repository if present. The mobile repo may ship its own license file — keep them aligned across your org.
+See [LICENSE](LICENSE) 
 
 ---
 
