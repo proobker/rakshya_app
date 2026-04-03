@@ -79,5 +79,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
-
+# API files
+*google-services.json
 # @end expo-cli
