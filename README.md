@@ -4,10 +4,8 @@
 
 | Artifact | Repository / host |
 | -------- | ----------------- |
-| Mobile app (Expo / React Native) | [proobker/rakshya_app](https://github.com/proobker/rakshya_app) |
-| Landing page & APK distribution links | This repo — [rakshyaapp/rakshyaapp.github.io](https://github.com/rakshyaapp/rakshyaapp.github.io) (or your fork) |
-
-> **Note:** If you maintain the app separately, copy the **Mobile application** sections below into the root `README.md` of [rakshya_app](https://github.com/proobker/rakshya_app).
+| Mobile app (Expo / React Native) | This Repo - [proobker/rakshya_app](https://github.com/proobker/rakshya_app) |
+| Landing page & APK distribution links | [rakshyaapp/rakshyaapp.github.io](https://github.com/rakshyaapp/rakshyaapp.github.io) (or your fork) |
 
 ---
 
